@@ -1,4 +1,4 @@
-## [Unreleased] - 2024-12-04
+## [Unreleased] - 2024-12-05
 
 ### Added
 - [#478](https://github.com/coduo/php-matcher/pull/478) - **Test coverage of both expanders** - [@StephaneLeveugle](https://github.com/StephaneLeveugle)
@@ -70,7 +70,7 @@
 - [6becf6](https://github.com/jrdnrc/php-matcher/commit/6becf6279b8585db40767720792674b82798685c) - **chain matcher and refactoring** - [@defrag](https://github.com/defrag)
 
 ### Changed
-- [fadbaa](https://github.com/jrdnrc/php-matcher/commit/fadbaaac383a9768382c1aba8a4728c0f97d189c) - **r** - [@jrdnrc](https://github.com/jrdnrc)
+- [1b39be](https://github.com/jrdnrc/php-matcher/commit/1b39be13d83c7051f8c5e78ca5f0ff36347b1a4f) - **support php 8.4** - [@jrdnrc](https://github.com/jrdnrc)
 - [2827a7](https://github.com/jrdnrc/php-matcher/commit/2827a7f071ff9dd23ad1999afa5cd60029166256) - **php 8.4 matrix** - [@jrdnrc](https://github.com/jrdnrc)
 - [#479](https://github.com/coduo/php-matcher/pull/479) - **each tool now lives in its own directory** - [@norberttech](https://github.com/norberttech)
 - [#478](https://github.com/coduo/php-matcher/pull/478) - **Moved much of the code into an abstract class** - [@StephaneLeveugle](https://github.com/StephaneLeveugle)
@@ -238,6 +238,7 @@
 - [3f5b8e](https://github.com/jrdnrc/php-matcher/commit/3f5b8ef9014d2076e615058827598541a79a1362) - **Initial commit** - [@defrag](https://github.com/defrag)
 
 ### Fixed
+- [4cc7c0](https://github.com/jrdnrc/php-matcher/commit/4cc7c04bb3e92a0cf0a502fb01629301a683037e) - **add `nullable_type_declaration_for_default_null_value`** - [@jrdnrc](https://github.com/jrdnrc)
 - [#493](https://github.com/coduo/php-matcher/pull/493) - **Fix #471** - [@GeLoLabs](https://github.com/GeLoLabs)
 - [#479](https://github.com/coduo/php-matcher/pull/479) - **phpbench configuration** - [@norberttech](https://github.com/norberttech)
 - [#478](https://github.com/coduo/php-matcher/pull/478) - **Error handling of after/before expanders when value was equal to boundary** - [@StephaneLeveugle](https://github.com/StephaneLeveugle)
